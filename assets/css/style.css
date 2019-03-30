@@ -1,0 +1,36 @@
+body {
+    background: url('../images/background.jpg') no-repeat center center fixed; 
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%; 
+    background-size: 100% 100%;
+
+}
+
+.lead {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.box1 {
+    margin-left: 40px;
+    background-color: #A7B6CB;
+    padding: 20px;
+    border-radius: 15px;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.jumbotron {
+    background-color: #0C1B38!important;
+    color: white;
+    opacity: .75;
+}
+
+.display-4 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.card {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+
